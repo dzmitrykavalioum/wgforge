@@ -1,0 +1,4 @@
+﻿  D.cpp
+d:\wf\d\d\d.cpp(15): warning C4101: 'victory_time': unreferenced local variable
+d:\wf\d\d\d.cpp(14): warning C4101: 'alice_time': unreferenced local variable
+  D.vcxproj -> D:\WF\D\Debug\D.exe
